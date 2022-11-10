@@ -1,0 +1,15 @@
+C:\Users\vadfa\RiderProjects\CsCourse\Övning\bin\Debug\net6.0\Övning.exe
+C:\Users\vadfa\RiderProjects\CsCourse\Övning\bin\Debug\net6.0\Övning.deps.json
+C:\Users\vadfa\RiderProjects\CsCourse\Övning\bin\Debug\net6.0\Övning.runtimeconfig.json
+C:\Users\vadfa\RiderProjects\CsCourse\Övning\bin\Debug\net6.0\Övning.dll
+C:\Users\vadfa\RiderProjects\CsCourse\Övning\bin\Debug\net6.0\Övning.pdb
+C:\Users\vadfa\RiderProjects\CsCourse\Övning\obj\Debug\net6.0\Övning.csproj.AssemblyReference.cache
+C:\Users\vadfa\RiderProjects\CsCourse\Övning\obj\Debug\net6.0\Övning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadfa\RiderProjects\CsCourse\Övning\obj\Debug\net6.0\Övning.AssemblyInfoInputs.cache
+C:\Users\vadfa\RiderProjects\CsCourse\Övning\obj\Debug\net6.0\Övning.AssemblyInfo.cs
+C:\Users\vadfa\RiderProjects\CsCourse\Övning\obj\Debug\net6.0\Övning.csproj.CoreCompileInputs.cache
+C:\Users\vadfa\RiderProjects\CsCourse\Övning\obj\Debug\net6.0\Övning.dll
+C:\Users\vadfa\RiderProjects\CsCourse\Övning\obj\Debug\net6.0\refint\Övning.dll
+C:\Users\vadfa\RiderProjects\CsCourse\Övning\obj\Debug\net6.0\Övning.pdb
+C:\Users\vadfa\RiderProjects\CsCourse\Övning\obj\Debug\net6.0\Övning.genruntimeconfig.cache
+C:\Users\vadfa\RiderProjects\CsCourse\Övning\obj\Debug\net6.0\ref\Övning.dll

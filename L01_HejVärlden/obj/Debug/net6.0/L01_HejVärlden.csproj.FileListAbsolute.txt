@@ -1,0 +1,15 @@
+C:\Users\vadfa\RiderProjects\CsCourse\L01_HejVärlden\bin\Debug\net6.0\L01_HejVärlden.exe
+C:\Users\vadfa\RiderProjects\CsCourse\L01_HejVärlden\bin\Debug\net6.0\L01_HejVärlden.deps.json
+C:\Users\vadfa\RiderProjects\CsCourse\L01_HejVärlden\bin\Debug\net6.0\L01_HejVärlden.runtimeconfig.json
+C:\Users\vadfa\RiderProjects\CsCourse\L01_HejVärlden\bin\Debug\net6.0\L01_HejVärlden.dll
+C:\Users\vadfa\RiderProjects\CsCourse\L01_HejVärlden\bin\Debug\net6.0\L01_HejVärlden.pdb
+C:\Users\vadfa\RiderProjects\CsCourse\L01_HejVärlden\obj\Debug\net6.0\L01_HejVärlden.csproj.AssemblyReference.cache
+C:\Users\vadfa\RiderProjects\CsCourse\L01_HejVärlden\obj\Debug\net6.0\L01_HejVärlden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadfa\RiderProjects\CsCourse\L01_HejVärlden\obj\Debug\net6.0\L01_HejVärlden.AssemblyInfoInputs.cache
+C:\Users\vadfa\RiderProjects\CsCourse\L01_HejVärlden\obj\Debug\net6.0\L01_HejVärlden.AssemblyInfo.cs
+C:\Users\vadfa\RiderProjects\CsCourse\L01_HejVärlden\obj\Debug\net6.0\L01_HejVärlden.csproj.CoreCompileInputs.cache
+C:\Users\vadfa\RiderProjects\CsCourse\L01_HejVärlden\obj\Debug\net6.0\L01_HejVärlden.dll
+C:\Users\vadfa\RiderProjects\CsCourse\L01_HejVärlden\obj\Debug\net6.0\refint\L01_HejVärlden.dll
+C:\Users\vadfa\RiderProjects\CsCourse\L01_HejVärlden\obj\Debug\net6.0\L01_HejVärlden.pdb
+C:\Users\vadfa\RiderProjects\CsCourse\L01_HejVärlden\obj\Debug\net6.0\L01_HejVärlden.genruntimeconfig.cache
+C:\Users\vadfa\RiderProjects\CsCourse\L01_HejVärlden\obj\Debug\net6.0\ref\L01_HejVärlden.dll

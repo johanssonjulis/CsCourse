@@ -1,0 +1,15 @@
+C:\Users\vadfa\RiderProjects\CsCourse\hangman\bin\Debug\net6.0\hangman.exe
+C:\Users\vadfa\RiderProjects\CsCourse\hangman\bin\Debug\net6.0\hangman.deps.json
+C:\Users\vadfa\RiderProjects\CsCourse\hangman\bin\Debug\net6.0\hangman.runtimeconfig.json
+C:\Users\vadfa\RiderProjects\CsCourse\hangman\bin\Debug\net6.0\hangman.dll
+C:\Users\vadfa\RiderProjects\CsCourse\hangman\bin\Debug\net6.0\hangman.pdb
+C:\Users\vadfa\RiderProjects\CsCourse\hangman\obj\Debug\net6.0\hangman.csproj.AssemblyReference.cache
+C:\Users\vadfa\RiderProjects\CsCourse\hangman\obj\Debug\net6.0\hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadfa\RiderProjects\CsCourse\hangman\obj\Debug\net6.0\hangman.AssemblyInfoInputs.cache
+C:\Users\vadfa\RiderProjects\CsCourse\hangman\obj\Debug\net6.0\hangman.AssemblyInfo.cs
+C:\Users\vadfa\RiderProjects\CsCourse\hangman\obj\Debug\net6.0\hangman.csproj.CoreCompileInputs.cache
+C:\Users\vadfa\RiderProjects\CsCourse\hangman\obj\Debug\net6.0\hangman.dll
+C:\Users\vadfa\RiderProjects\CsCourse\hangman\obj\Debug\net6.0\refint\hangman.dll
+C:\Users\vadfa\RiderProjects\CsCourse\hangman\obj\Debug\net6.0\hangman.pdb
+C:\Users\vadfa\RiderProjects\CsCourse\hangman\obj\Debug\net6.0\hangman.genruntimeconfig.cache
+C:\Users\vadfa\RiderProjects\CsCourse\hangman\obj\Debug\net6.0\ref\hangman.dll

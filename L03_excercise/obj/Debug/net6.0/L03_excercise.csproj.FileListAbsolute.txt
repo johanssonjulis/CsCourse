@@ -1,0 +1,15 @@
+C:\Users\vadfa\RiderProjects\CsCourse\L03_excercise\bin\Debug\net6.0\L03_excercise.exe
+C:\Users\vadfa\RiderProjects\CsCourse\L03_excercise\bin\Debug\net6.0\L03_excercise.deps.json
+C:\Users\vadfa\RiderProjects\CsCourse\L03_excercise\bin\Debug\net6.0\L03_excercise.runtimeconfig.json
+C:\Users\vadfa\RiderProjects\CsCourse\L03_excercise\bin\Debug\net6.0\L03_excercise.dll
+C:\Users\vadfa\RiderProjects\CsCourse\L03_excercise\bin\Debug\net6.0\L03_excercise.pdb
+C:\Users\vadfa\RiderProjects\CsCourse\L03_excercise\obj\Debug\net6.0\L03_excercise.csproj.AssemblyReference.cache
+C:\Users\vadfa\RiderProjects\CsCourse\L03_excercise\obj\Debug\net6.0\L03_excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadfa\RiderProjects\CsCourse\L03_excercise\obj\Debug\net6.0\L03_excercise.AssemblyInfoInputs.cache
+C:\Users\vadfa\RiderProjects\CsCourse\L03_excercise\obj\Debug\net6.0\L03_excercise.AssemblyInfo.cs
+C:\Users\vadfa\RiderProjects\CsCourse\L03_excercise\obj\Debug\net6.0\L03_excercise.csproj.CoreCompileInputs.cache
+C:\Users\vadfa\RiderProjects\CsCourse\L03_excercise\obj\Debug\net6.0\L03_excercise.dll
+C:\Users\vadfa\RiderProjects\CsCourse\L03_excercise\obj\Debug\net6.0\refint\L03_excercise.dll
+C:\Users\vadfa\RiderProjects\CsCourse\L03_excercise\obj\Debug\net6.0\L03_excercise.pdb
+C:\Users\vadfa\RiderProjects\CsCourse\L03_excercise\obj\Debug\net6.0\L03_excercise.genruntimeconfig.cache
+C:\Users\vadfa\RiderProjects\CsCourse\L03_excercise\obj\Debug\net6.0\ref\L03_excercise.dll

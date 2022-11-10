@@ -1,0 +1,15 @@
+C:\Users\vadfa\RiderProjects\CsCourse\bob_tabor\bin\Debug\net6.0\bob_tabor.exe
+C:\Users\vadfa\RiderProjects\CsCourse\bob_tabor\bin\Debug\net6.0\bob_tabor.deps.json
+C:\Users\vadfa\RiderProjects\CsCourse\bob_tabor\bin\Debug\net6.0\bob_tabor.runtimeconfig.json
+C:\Users\vadfa\RiderProjects\CsCourse\bob_tabor\bin\Debug\net6.0\bob_tabor.dll
+C:\Users\vadfa\RiderProjects\CsCourse\bob_tabor\bin\Debug\net6.0\bob_tabor.pdb
+C:\Users\vadfa\RiderProjects\CsCourse\bob_tabor\obj\Debug\net6.0\bob_tabor.csproj.AssemblyReference.cache
+C:\Users\vadfa\RiderProjects\CsCourse\bob_tabor\obj\Debug\net6.0\bob_tabor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadfa\RiderProjects\CsCourse\bob_tabor\obj\Debug\net6.0\bob_tabor.AssemblyInfoInputs.cache
+C:\Users\vadfa\RiderProjects\CsCourse\bob_tabor\obj\Debug\net6.0\bob_tabor.AssemblyInfo.cs
+C:\Users\vadfa\RiderProjects\CsCourse\bob_tabor\obj\Debug\net6.0\bob_tabor.csproj.CoreCompileInputs.cache
+C:\Users\vadfa\RiderProjects\CsCourse\bob_tabor\obj\Debug\net6.0\bob_tabor.dll
+C:\Users\vadfa\RiderProjects\CsCourse\bob_tabor\obj\Debug\net6.0\refint\bob_tabor.dll
+C:\Users\vadfa\RiderProjects\CsCourse\bob_tabor\obj\Debug\net6.0\bob_tabor.pdb
+C:\Users\vadfa\RiderProjects\CsCourse\bob_tabor\obj\Debug\net6.0\bob_tabor.genruntimeconfig.cache
+C:\Users\vadfa\RiderProjects\CsCourse\bob_tabor\obj\Debug\net6.0\ref\bob_tabor.dll

@@ -1,0 +1,15 @@
+C:\Users\vadfa\RiderProjects\CsCourse\L02_ifsatser\obj\Debug\net6.0\L02_ifsatser.csproj.AssemblyReference.cache
+C:\Users\vadfa\RiderProjects\CsCourse\L02_ifsatser\obj\Debug\net6.0\L02_ifsatser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadfa\RiderProjects\CsCourse\L02_ifsatser\obj\Debug\net6.0\L02_ifsatser.AssemblyInfoInputs.cache
+C:\Users\vadfa\RiderProjects\CsCourse\L02_ifsatser\obj\Debug\net6.0\L02_ifsatser.AssemblyInfo.cs
+C:\Users\vadfa\RiderProjects\CsCourse\L02_ifsatser\obj\Debug\net6.0\L02_ifsatser.csproj.CoreCompileInputs.cache
+C:\Users\vadfa\RiderProjects\CsCourse\L02_ifsatser\bin\Debug\net6.0\L02_ifsatser.exe
+C:\Users\vadfa\RiderProjects\CsCourse\L02_ifsatser\bin\Debug\net6.0\L02_ifsatser.deps.json
+C:\Users\vadfa\RiderProjects\CsCourse\L02_ifsatser\bin\Debug\net6.0\L02_ifsatser.runtimeconfig.json
+C:\Users\vadfa\RiderProjects\CsCourse\L02_ifsatser\bin\Debug\net6.0\L02_ifsatser.dll
+C:\Users\vadfa\RiderProjects\CsCourse\L02_ifsatser\bin\Debug\net6.0\L02_ifsatser.pdb
+C:\Users\vadfa\RiderProjects\CsCourse\L02_ifsatser\obj\Debug\net6.0\L02_ifsatser.dll
+C:\Users\vadfa\RiderProjects\CsCourse\L02_ifsatser\obj\Debug\net6.0\refint\L02_ifsatser.dll
+C:\Users\vadfa\RiderProjects\CsCourse\L02_ifsatser\obj\Debug\net6.0\L02_ifsatser.pdb
+C:\Users\vadfa\RiderProjects\CsCourse\L02_ifsatser\obj\Debug\net6.0\L02_ifsatser.genruntimeconfig.cache
+C:\Users\vadfa\RiderProjects\CsCourse\L02_ifsatser\obj\Debug\net6.0\ref\L02_ifsatser.dll
